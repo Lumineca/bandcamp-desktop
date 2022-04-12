@@ -41,6 +41,7 @@ const tags = [
   'Rap',
   'Rock',
   'SKA Punk',
+  'Swing Metal'
   'Techno'
 ];
 let tagsMenu = [];
